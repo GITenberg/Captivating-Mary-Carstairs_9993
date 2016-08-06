@@ -1,0 +1,28 @@
+_repo: Captivating-Mary-Carstairs_9993
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harrison, Henry Sydnor
+    aliases:
+    - Harrison, H. S. (Henry Sydnor)
+    - Second, Henry
+    birthdate: 1880
+    deathdate: 1930
+    gutenberg_agent_id: '3237'
+    url: http://www.gutenberg.org/2009/agents/3237
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Sydnor_Harrison
+description: Cover -- Contents.
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- GITenberg
+title: Captivating Mary Carstairs
+url: http://www.gutenberg.org/ebooks/9993
